@@ -1,0 +1,64 @@
+
+
+body {
+    background-image:url("https://images4.alphacoders.com/132/13214.jpg");
+    background-size: cover;
+    width: 80%;
+    margin: 3% auto;
+    background-color:silver;
+}
+
+.display-4 {
+    text-align: center;
+    opacity:75%;
+}
+
+.section-head {
+    color:white;
+    background-color:rgb(51 122 183);
+    padding:10px;
+    font-weight:bold;
+    opacity:75%;
+}
+
+.jumbotron {
+    background-color: rgba(200, 200, 200, 0.80);
+}
+
+.contentbox {
+    opacity:75%;
+    border-radius: 5px;
+    border: 2px solid gray;
+    background-color: white;
+    background-color: rgba(255, 255, 255, 0.80);
+    margin-top: 5px;
+    margin-bottom:10px;
+    width:auto;
+}
+
+form {
+    width:auto;
+}
+
+.form-group {
+    opacity:75%;
+    margin: 15px;
+    width:300px;
+    margin-left:40%;
+    margin-right:auto;
+}
+
+.btn-primary {
+    margin-left:48%;
+    margin-right:auto;
+}
+
+.form-control {
+    margin-left: 15px;
+    margin-right:50px;
+    margin-bottom:10px;
+}
+label {
+    margin-bottom:10px;
+    margin-top: 10px;
+}
